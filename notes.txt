@@ -1,0 +1,4 @@
+Some courses about TF
+    https://web.stanford.edu/class/cs20si/2017/
+    https://github.com/chiphuyen/stanford-tensorflow-tutorials
+    https://github.com/vahidk/EffectiveTensorflow#basics
